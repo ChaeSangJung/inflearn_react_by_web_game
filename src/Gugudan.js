@@ -25,7 +25,7 @@ class Gugudan extends React.Component {
             });
         } else {
             this.setState({
-                result: '땡~!!',
+                result: '땡~!!!',
                 value: ''
             })
         }
