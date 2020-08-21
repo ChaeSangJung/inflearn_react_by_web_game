@@ -8,9 +8,3 @@
 - Fragmnet
 - Functional setState
 - ref
-
-<<<<<<< HEAD
-***
-=======
-***
->>>>>>> 9cf357e6963c845e554148155c60f3d52038e39f
