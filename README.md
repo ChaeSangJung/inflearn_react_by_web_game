@@ -17,7 +17,3 @@
 # 2. 끝말 잇기
 - React Hooks
 - Class vs Hooks
-- install webpack
-- Module system and setting webpack
-- building by webpack
-- 
