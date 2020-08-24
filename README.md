@@ -8,4 +8,6 @@
 - Fragmnet
     - <></> <React.Fragment></React.Fragment>
 - Functional setState
+    - 예전 state 값으로 새로운 state 값을 만들 때 : return 함수를 쓴다.
 - ref
+    - 참조
