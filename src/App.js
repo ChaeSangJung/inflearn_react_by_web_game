@@ -11,3 +11,6 @@ function App() {
 }
 
 export default App;
+
+
+// rm -f ./.git/index.lock
