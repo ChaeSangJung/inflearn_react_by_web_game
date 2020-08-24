@@ -45,6 +45,7 @@ class Gugudan extends React.Component {
         // console.log("redering");
         return (
             <div>
+                <h1>Class</h1>
                 <div>{this.state.first}곱하기{this.state.second}는?</div>
                 <form onSubmit={ this.onSubmit }>
                     <input ref={this.onRefInput} type="number" value={this.state.value} onChange={ this.onChange }/>

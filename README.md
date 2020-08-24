@@ -11,3 +11,13 @@
     - 예전 state 값으로 새로운 state 값을 만들 때 : return 함수를 쓴다.
 - ref
     - 참조
+
+***
+
+# 2. 끝말 잇기
+- React Hooks
+- Class vs Hooks
+- install webpack
+- Module system and setting webpack
+- building by webpack
+- 
