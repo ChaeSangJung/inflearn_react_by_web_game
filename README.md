@@ -17,3 +17,10 @@
 # 2. 끝말 잇기
 - React Hooks
 - Class vs Hooks
+- webpack
+    - 하나의 javascript로 만들어 줌(중복 제거)
+    - node를 알아야 한다.
+        - javascript의 실행기
+    - module.exports = {
+        
+    };
