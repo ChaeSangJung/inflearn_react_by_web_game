@@ -3,6 +3,8 @@ import './App.css';
 import Gugudan from './Gugudan';
 import JoinWords from './JoinWords';
 import Gugudan_hook from './Gugudan_hook';
+import JoinWord_hook from './JoinWords_hook';
+
 
 function App() {
   return (
@@ -10,6 +12,7 @@ function App() {
       <Gugudan />
       <Gugudan_hook />
       <JoinWords />
+      <JoinWord_hook />
     </div>
   );
 }

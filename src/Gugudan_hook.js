@@ -32,7 +32,7 @@ const Gugudan_hook = () => {
 
     return (
         <>
-            <h1>Hooks!</h1>
+            <h1>구구단 Hooks!</h1>
             <div>{first}곱하기{second}는?</div>
             <form onSubmit={ onSubmitForm }>
                 <input ref={ inputRef } type="number" value={ value } onChange={ onChangeInput }/>

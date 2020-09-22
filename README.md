@@ -21,6 +21,6 @@
     - 하나의 javascript로 만들어 줌(중복 제거)
     - node를 알아야 한다.
         - javascript의 실행기
-    - module.exports = {
-        
-    };
+- 끝말잇기 Class 만들기
+    - value와 onChange는 세트입니당
+    - 그게 아니면 defaultValue
